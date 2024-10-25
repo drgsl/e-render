@@ -1,2 +1,2 @@
 # render
-Here lies the template for opengl render engine
+Here lies the abstract template for opengl render engine
